@@ -9,4 +9,4 @@
 
 ### Languages & Frameworks
 I already use : 
-  ![Html5](https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/html-5.svg|width=20)
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/html-5.svg" width="20">
