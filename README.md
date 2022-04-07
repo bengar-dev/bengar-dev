@@ -9,5 +9,5 @@
 
 
 ### Languages & Frameworks
-* **Front-end** : 
-* **Back-end** :
+* **Front-end** : HTML, CSS, JavaScript, SASS
+* **Back-end** : PHP, NodeJS
