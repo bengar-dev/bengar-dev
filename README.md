@@ -6,7 +6,7 @@
 * I discover HTML almost 20 years ago
 * I start to work in developpement 1 year ago
 * I was graduated in march 2022 *Developper fullstack js by OpenClassrooms* <img src='https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png' width='14px' />
-* I'm still training with *OpenClassrooms* following *Developper front-end React* <img src='https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png' width='14px' /> until april 2023
+* I'm still training my skills with *OpenClassrooms* following *Developper front-end React* <img src='https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png' width='14px' />
 
 
 ### Languages & Frameworks
