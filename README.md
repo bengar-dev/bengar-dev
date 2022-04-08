@@ -10,7 +10,7 @@
 * I also learn by my side to complete my knowledge.
 
 
-### Languages & Frameworks ⌨️
+### Languages & Frameworks 🖥️
 * **Languages** : HTML, CSS, JavaScript, PHP
 * **Frameworks** : React (Redux, RecoilJS), Bootstrap, Tailwind | NodeJS, Express, fastify, Sequelize, Mongoose
 * **DBB** : SQL, MongoDB, Firebase
@@ -21,7 +21,7 @@
 * **Groupomania** : https://github.com/benysserp/Groupomania
 * **Portfolio** : https://benoitgarcia.fr
 
-### My actual 2022's Roadmap 🏎️
+### My actual 2022's Roadmap 🚙
 
 * Improving my skills on **React** [|||||||||] - 80%
 * **TypeScript**
