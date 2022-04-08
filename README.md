@@ -10,18 +10,18 @@
 * I also learn by my side to complete my knowledge.
 
 
-### Languages & Frameworks
+### Languages & Frameworks ⌨️
 * **Languages** : HTML, CSS, JavaScript, PHP
 * **Frameworks** : React (Redux, RecoilJS), Bootstrap, Tailwind | NodeJS, Express, fastify, Sequelize, Mongoose
 * **DBB** : SQL, MongoDB, Firebase
 * **Tools / IDE** : Git/GitHub, Adobe Photoshop, Adobe After Effect, Visual Studio Code, Atom
 
-### Projects that i'm proud
+### Projects that i'm proud 📁
 
 * **Groupomania** : https://github.com/benysserp/Groupomania
 * **Portfolio** : https://benoitgarcia.fr
 
-### My actual 2022's Roadmap
+### My actual 2022's Roadmap 🏎️
 
 * Improving my skills on **React** [|||||||||] - 80%
 * **TypeScript**
@@ -29,6 +29,6 @@
 * **Symfony**
 * **VueJS**
 
-### Projects for 2022
+### Projects for 2022 🌌
 * **Youtube** I would like create a Youtube channel to share my knowledge, opinions about web developpement.
 * **Job** I'm looking for a job, but difficult when you don't have any experience. I don't surrender easily 💪
