@@ -13,3 +13,8 @@
 * **Frameworks** : React (Redux, RecoilJS), Bootstrap, Tailwind | NodeJS, Express, fastify, Sequelize, Mongoose
 * **DBB** : SQL, MongoDB, Firebase
 * **Tools / IDE** : Git/GitHub, Adobe Photoshop, Adobe After Effect, Visual Studio Code, Atom
+
+### Projects that i'm proud
+
+* **Groupomania** : https://github.com/benysserp/Groupomania
+* **Portfolio** : https://benoitgarcia.fr
