@@ -9,5 +9,7 @@
 
 
 ### Languages & Frameworks
-* **Front-end** : HTML, CSS, JavaScript, SASS
-* **Back-end** : PHP, NodeJS
+* **Languages** : HTML, CSS, JavaScript, PHP
+* **Frameworks** : React (Redux, RecoilJS), Bootstrap, Tailwind | NodeJS, Express, fastify, Sequelize, Mongoose
+* **DBB** : SQL, MongoDB, Firebase
+* **Tools / IDE** : Git/GitHub, Adobe Photoshop, Adobe After Effect, Visual Studio Code, Atom
