@@ -7,6 +7,7 @@
 * I start to work in developpement 1 year ago
 * I was graduated in march 2022 *Developper fullstack js by OpenClassrooms* <img src='https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png' width='14px' />
 * I'm still training my skills with *OpenClassrooms* following *Developper front-end React* <img src='https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png' width='14px' />
+* I also learn by my side to complete my knowledge.
 
 
 ### Languages & Frameworks
@@ -27,3 +28,7 @@
 * **NextJS**
 * **Symfony**
 * **VueJS**
+
+### Projects for 2022
+* **Youtube** I would like create a Youtube channel to share my knowledge, opinions about web developpement.
+* **Job** I'm looking for a job, but difficult when you don't have any experience.
