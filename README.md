@@ -22,8 +22,8 @@
 
 ### My actual 2022's Roadmap
 
-* Improving my skills on **React** [|||||||||] - 100%
-* **TypeScript** [|/////////] - 10%
+* Improving my skills on **React** [|||||||||] - 80%
+* **TypeScript**
 * **NextJS**
 * **Symfony**
 * **VueJS**
