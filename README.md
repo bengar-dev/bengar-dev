@@ -18,3 +18,11 @@
 
 * **Groupomania** : https://github.com/benysserp/Groupomania
 * **Portfolio** : https://benoitgarcia.fr
+
+### My actual 2022's Roadmap
+
+* **React**
+* **TypeScript**
+* **NextJS**
+* **Symfony**
+* **VueJS**
