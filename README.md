@@ -4,11 +4,11 @@
 ### I'm Benoît, front-end developper 💻
 * I'm 33 years old guy from Montpellier, France. <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1024px-Flag_of_France.svg.png' width='14px' />
 * French is my native language, but i also speak English and Spanish.
-* I discover HTML almost 20 years ago
-* I start to work in developpement 1 year ago
+* I discovered HTML almost 20 years ago
+* I start working in developpement 1 year ago
 * I was graduated in march 2022 *Developper fullstack js by OpenClassrooms* <img src='https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png' width='14px' />
 * I'm still training my skills with *OpenClassrooms* following *Developper front-end React* <img src='https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png' width='14px' />
-* I also learn by my side to complete my knowledge.
+* I'm also learning by my side to complete my knowledge.
 
 
 ### Languages & Frameworks 🖥️
