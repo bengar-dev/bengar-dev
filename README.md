@@ -32,4 +32,4 @@
 
 ### Projects for 2022 🌌
 * **Youtube** I would like create a Youtube channel to share my knowledge, opinions about web developpement.
-* **Job** I'm looking for a job, but difficult when you don't have any experience. I don't surrender easily 💪
+* **Job** I'm looking for a job, but difficult when you don't have any experience. But don't worry, I don't surrender easily 💪
