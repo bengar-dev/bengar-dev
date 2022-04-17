@@ -24,7 +24,7 @@
 
 ### My actual 2022's Roadmap 🚙
 
-* **React**
+* **React** (done)
 * **TypeScript**
 * **NextJS**
 * **Symfony**
