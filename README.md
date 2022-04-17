@@ -19,7 +19,7 @@
 
 ### Projects that i'm proud 📁
 
-* **Groupomania** : https://github.com/benysserp/Groupomania
+* **Groupomania** : https://github.com/benysserp/Groupo_refacto
 * **Portfolio** : https://benoitgarcia.fr
 
 ### My actual 2022's Roadmap 🚙
