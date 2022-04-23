@@ -19,6 +19,7 @@
 
 ### Projects that i'm proud 📁
 
+* **Shopy app** : https://github.com/benysserp/shopy-app
 * **Groupomania** : https://github.com/benysserp/Groupo_refacto
 * **Portfolio** : https://benoitgarcia.fr
 
