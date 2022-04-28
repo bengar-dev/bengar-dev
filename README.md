@@ -24,8 +24,6 @@
 * **Groupomania** : https://github.com/benysserp/Groupo_refacto
 * **Portfolio** : https://benoitgarcia.fr
 
-And i'm working on a fullstack application right now : https://github.com/benysserp/feedback-app
-
 ### My actual 2022's Roadmap 🚙
 
 * **TypeScript**
