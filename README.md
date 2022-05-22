@@ -9,13 +9,14 @@
 * I was graduated in march 2022 *Developper fullstack js by OpenClassrooms* <img src='https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png' width='14px' />
 * I'm still training my skills with *OpenClassrooms* following *Developper front-end React* <img src='https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png' width='14px' />
 * I'm also learning by my side to complete my knowledge.
+* I'm starting my first job in June, i will be working for Kaliop.
 
 
 ### Languages & Frameworks 🖥️
-* **Languages** : HTML, CSS, JavaScript, PHP
-* **Frameworks** : React (Redux, RecoilJS), Bootstrap, Tailwind | NodeJS, Express, fastify, Sequelize, Mongoose
-* **DBB** : SQL, MongoDB, Firebase
-* **Tools / IDE** : Git/GitHub, Adobe Photoshop, Adobe After Effect, Visual Studio Code, Atom
+* **Languages** : HTML, CSS, JavaScript
+* **Frameworks** : React (Redux, RecoilJS), Next.js, TypeScript, Tailwind | NodeJS, Express, fastify, Sequelize, Mongoose
+* **DBB** : SQL, MongoDB
+* **Tools / IDE** : Git/GitHub, Adobe Photoshop, Adobe After Effect, Visual Studio Code
 
 ### Projects that i'm proud 📁
 
@@ -23,6 +24,8 @@
 * **Shopy app** : https://github.com/benysserp/shopy-app
 * **Groupomania** : https://github.com/benysserp/Groupo_refacto
 * **Portfolio** : https://benoitgarcia.fr
+
+I'm actualy working on : https://github.com/benysserp/groupomania_nextjs
 
 ### My actual 2022's Roadmap 🚙
 
@@ -32,5 +35,4 @@
 * **VueJS**
 
 ### Projects for 2022 🌌
-* **Youtube** I would like create a Youtube channel to share my knowledge, opinions about web developpement.
-* **Job** I'm looking for a job, but difficult when you don't have any experience. But don't worry, I don't surrender easily 💪
+* **Youtube** I would like create a Youtube channel to share my knowledge, opinions about web developpement
