@@ -29,8 +29,6 @@ I'm actualy working on : https://github.com/benysserp/groupomania_nextjs
 
 ### My actual 2022's Roadmap 🚙
 
-* **TypeScript**
-* **NextJS**
 * **Symfony**
 * **VueJS**
 
