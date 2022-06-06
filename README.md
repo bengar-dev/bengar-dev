@@ -23,14 +23,11 @@
 * **Feedy app** : https://github.com/benysserp/feedback-app
 * **Shopy app** : https://github.com/benysserp/shopy-app
 * **Groupomania** : https://github.com/benysserp/Groupo_refacto
-* **Portfolio** : https://benoitgarcia.fr
-
-I'm actualy working on : https://github.com/benysserp/groupomania_nextjs
+* **Portfolio** : https://benoitgarcia.dev
 
 ### My actual 2022's Roadmap 🚙
 
-* **fastify**
-* **Prisma ORM**
+* **Nest.js**
 * **PHP**
 * **Symfony**
 * **VueJS**
