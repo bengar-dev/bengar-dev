@@ -19,6 +19,7 @@
 
 ### Projects that i'm proud 📁
 
+* **Hackathon 2022** : https://github.com/benysserp/front-hackaton
 * **Feedy app** : https://github.com/benysserp/feedback-app
 * **Shopy app** : https://github.com/benysserp/shopy-app
 * **Groupomania** : https://github.com/benysserp/Groupo_refacto
