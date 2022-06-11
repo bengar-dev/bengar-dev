@@ -9,7 +9,6 @@
 * I was graduated in march 2022 *Developper fullstack js by OpenClassrooms* <img src='https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png' width='14px' />
 * I'm still training my skills with *OpenClassrooms* following *Developper front-end React* <img src='https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png' width='14px' />
 * I'm also learning by my side to complete my knowledge.
-* I'm starting my first job in June, i will be working for Kaliop.
 
 
 ### Languages & Frameworks 🖥️
@@ -32,5 +31,6 @@
 * **Symfony**
 * **VueJS**
 
-### Projects for 2022 🌌
-* **Youtube** I would like create a Youtube channel to share my knowledge, opinions about web developpement
+### Working for Kaliop, Montpellier 🌌
+
+I'm streaming sometimes on twitch, there is my channel : https://twitch.tv/pressycw
