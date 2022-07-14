@@ -13,7 +13,7 @@
 
 ### Languages & Frameworks 🖥️
 * **Languages** : HTML, CSS, JavaScript
-* **Frameworks** : React (Redux, RecoilJS), Next.js, TypeScript, Tailwind | NodeJS, Express, fastify, Sequelize, Mongoose
+* **Frameworks** : React (Redux, RecoilJS), Next.js, TypeScript, Tailwind | Nest.js, NodeJS, Express, fastify, GraphQL, Sequelize, Mongoose
 * **DBB** : SQL, MongoDB
 * **Tools / IDE** : Git/GitHub, Adobe Photoshop, Adobe After Effect, Visual Studio Code
 
@@ -25,12 +25,10 @@
 * **Groupomania** : https://github.com/benysserp/Groupo_refacto
 * **Portfolio** : https://benoitgarcia.dev
 
-### My actual 2022's Roadmap 🚙
+### I'm actually learning 🚙
 
 * **Nest.js**
-* **PHP**
-* **Symfony**
-* **VueJS**
+* **GraphQL**
 
 ### Working for Kaliop, Montpellier 🌌
 
