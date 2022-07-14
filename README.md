@@ -1,7 +1,7 @@
 ## < Hello world /> 👋
 
 
-### I'm Benoît, front-end developper 💻
+### I'm Benoît, fullstack developper 💻
 * I'm 33 years old guy from Montpellier, France. <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1024px-Flag_of_France.svg.png' width='14px' />
 * French is my native language, but i also speak English and Spanish.
 * I discovered HTML almost 20 years ago
