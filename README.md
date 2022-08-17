@@ -25,11 +25,6 @@
 * **Groupomania** : https://github.com/benysserp/Groupo_refacto
 * **Portfolio** : https://benoitgarcia.dev
 
-### I'm actually learning 🚙
-
-* **Nest.js**
-* **GraphQL**
-
 ### Working for Kaliop, Montpellier 🌌
 
 I'm streaming sometimes on twitch, there is my channel : https://twitch.tv/pressycw
