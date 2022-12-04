@@ -12,10 +12,10 @@
 
 
 ### Languages & Frameworks 🖥️
-* **Languages** : HTML, CSS, JavaScript, TypeScript
-* **Frameworks** : React (Redux, RecoilJS), Next.js, Tailwind | Nest.js, NodeJS, Express, fastify, GraphQL, Sequelize, Mongoose
-* **DBB** : SQL, MongoDB
-* **Tools / IDE** : Git/GitHub, Adobe Photoshop, Adobe After Effect, Visual Studio Code
+* JavaScript / TypeScript
+* React / Nezzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxt.js
+* Node.js / Nest.js / Express / GraphQL / Prisma
+* Tailwind
 
 ### Projects that i'm proud 📁
 
