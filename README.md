@@ -13,7 +13,7 @@
 
 ### Languages & Frameworks 🖥️
 * JavaScript / TypeScript
-* React / Nezzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxt.js
+* React / Next.js
 * Node.js / Nest.js / Express / GraphQL / Prisma
 * Tailwind
 
