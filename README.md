@@ -20,7 +20,7 @@
 
 * **Hackathon 2022** : https://github.com/benysserp/front-hackaton
 * **Groupomania [version2]** : https://github.com/bengar-dev/groupo-2
-* **Portfolio** : https://benoitgarcia.dev
+* **Portfolio** [offline] : https://benoitgarcia.dev
 
 ### Working for Kaliop, Montpellier 🌌
 
