@@ -16,11 +16,11 @@
 * Node.js / Nest.js / Express / GraphQL / Prisma
 * Tailwind
 
-### Projects that i'm proud 📁
+### Some projects 📁
 
 * **Hackathon 2022** : https://github.com/benysserp/front-hackaton
 * **Groupomania [version2]** : https://github.com/bengar-dev/groupo-2
-* **Portfolio** [offline] : https://benoitgarcia.dev
+* **Portfolio** : https://benoitgarcia.dev
 
 ### Working for Kaliop, Montpellier 🌌
 
