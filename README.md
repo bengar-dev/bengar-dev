@@ -9,12 +9,6 @@
 * I was graduated in march 2022 *Developper fullstack js by OpenClassrooms* <img src='https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png' width='14px' />
 * I'm actually in work-study contract with **Kaliop**
 
-### Languages & Frameworks 🖥️
-* JavaScript / TypeScript
-* React / Next.js
-* Node.js / Nest.js / Express / GraphQL / Prisma
-* Tailwind
-
 ### Some projects 📁
 
 * **Hackathon 2022** : https://github.com/benysserp/front-hackaton
